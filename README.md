@@ -5,7 +5,7 @@
 
 ### **AVISO LEGAL Y CONDICIONES DE USO**
 
-**Fecha de última actualización:** 24 de julio de 2024
+**Fecha de última actualización:** 05 de noviembre de 2025
 
 El presente documento establece los términos y condiciones de uso del "Mapa de Conocimiento Jurídico: Derecho Sanitario" (en adelante, "la Herramienta"), una aplicación web desarrollada y mantenida por **Bley Abogados SLP**.
 
@@ -56,4 +56,4 @@ Queda prohibida la reproducción, distribución, comunicación pública, transfo
 
 Si usted o un familiar ha sufrido un perjuicio derivado de la asistencia sanitaria y necesita asesoramiento experto, puede contactar con nuestro equipo para una valoración gratuita y sin compromiso de su caso a través de nuestro sitio web oficial:
 
-[**www.bleyabogados.com**](https://www.bleyabogados.com/)
+[**bleyabogados.com**](https://bleyabogados.com/)
